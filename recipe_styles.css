@@ -1,0 +1,16 @@
+h1 {
+  font-family: "URW Chancery L", cursive;
+  text-align: center;
+}
+
+p {
+  text-align: left;
+  font-size: 14px;
+  font-weight: 500;
+}
+body {
+  background-color: lightyellow;
+}
+img {
+  border: 2px solid darkgrey;
+}
